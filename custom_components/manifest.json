@@ -1,0 +1,11 @@
+{
+    "domain": "ecoflow_powerocean",
+    "name": "EcoFlow PowerOcean",
+    "version": "0.1.0",
+    "codeowners": "@danielfernau",
+    "documentation": "https://github.com/danielfernau/ha-ecoflow-powerocean/wiki",
+    "issue_tracker": "https://github.com/danielfernau/ha-ecoflow-powerocean/issues",
+    "integration_type": "device",
+    "iot_class": "cloud_polling",
+    "requirements": []
+}
